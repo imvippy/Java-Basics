@@ -1,0 +1,4 @@
+class Juice
+{
+    int color;
+}
